@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+E:\My Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1218512838.index
+\OnlineMobileShoppingSystem\src\main\java
+E:\My Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1311646915.index
+\DemoProject\src\main\resources
+E:\My Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2620810795.index
+\OnlineMobileShoppingSystem\src\main\resources

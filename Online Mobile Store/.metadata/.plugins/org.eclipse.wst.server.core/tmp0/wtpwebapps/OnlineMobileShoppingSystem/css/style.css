@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body
+{
+	margin: 0;
+	height: 100%;
+}
+
+.custom-bg
+{
+	
+	background:#40E0D0!important;
+	
+}
+

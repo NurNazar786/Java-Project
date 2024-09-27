@@ -1,0 +1,5 @@
+127.0.0.1 - - [19/Aug/2023:09:27:48 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Aug/2023:09:27:52 +0530] "GET /OnlineMobileShoppingSystem/ HTTP/1.1" 200 10140
+0:0:0:0:0:0:0:1 - - [19/Aug/2023:09:27:52 +0530] "GET /OnlineMobileShoppingSystem/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Aug/2023:09:27:52 +0530] "GET /OnlineMobileShoppingSystem/images/image2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Aug/2023:09:27:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762

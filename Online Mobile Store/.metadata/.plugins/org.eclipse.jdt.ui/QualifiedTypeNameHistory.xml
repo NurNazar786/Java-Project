@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.mobilestore.utils.PropertyReader"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="com.mobilestore.model.Brand"/>
+    <fullyQualifiedTypeName name="com.mobilestore.dao.BrandDaoImp"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.Part"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.Payer"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.RedirectUrls"/>
+    <fullyQualifiedTypeName name="com.paypal.base.rest.APIContext"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.Details"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.Amount"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.ItemList"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.Item"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.Links"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.PaymentExecution"/>
+    <fullyQualifiedTypeName name="com.mobilestore.dao.ProductDaoImp"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.mobilestore.db_conn.ConnectionProvider"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="com.mobilestore.dao.UserDaoImp"/>
+    <fullyQualifiedTypeName name="com.mobilestore.paypal.PaymentServices"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.Payment"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.PayerInfo"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.Transaction"/>
+    <fullyQualifiedTypeName name="com.paypal.api.payments.ShippingAddress"/>
+    <fullyQualifiedTypeName name="com.paypal.base.rest.PayPalRESTException"/>
+    <fullyQualifiedTypeName name="com.mobilestore.dao.CartDaoImp"/>
+    <fullyQualifiedTypeName name="com.mobilestore.model.User"/>
+    <fullyQualifiedTypeName name="com.mobilestore.utils.Helper"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.MultipartConfig"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="com.mobilestore.dao.OrderDaoImp"/>
+    <fullyQualifiedTypeName name="com.mobilestore.model.Product"/>
+    <fullyQualifiedTypeName name="com.mobilestore.model.Cart"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.mobilestore.model.Order"/>
+</qualifiedTypeNameHistroy>

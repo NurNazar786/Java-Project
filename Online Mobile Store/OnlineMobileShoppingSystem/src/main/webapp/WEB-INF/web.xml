@@ -1,0 +1,101 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+ 
+  <servlet>
+  	<servlet-name>RegisterUserServlet</servlet-name>
+  	<display-name>RegisterUserServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.mobilestore.servlets.RegisterUserServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>LoginServlet</servlet-name>
+  	<display-name>LoginServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.mobilestore.servlets.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ProductOperationServlet</servlet-name>
+  	<display-name>ProductOperationServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.mobilestore.servlets.ProductOperationServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>CartServlet</servlet-name>
+  	<display-name>CartServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.mobilestore.servlets.CartServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Test</servlet-name>
+  	<display-name>Test</display-name>
+  	<description></description>
+  	<servlet-class>com.mobilestore.servlets.Test</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>AuthorizePaymentServlet</servlet-name>
+  	<display-name>AuthorizePaymentServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.mobilestore.servlets.AuthorizePaymentServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ExecutePaymentServlet</servlet-name>
+  	<display-name>ExecutePaymentServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.mobilestore.servlets.ExecutePaymentServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ReviewPaymentServlet</servlet-name>
+  	<display-name>ReviewPaymentServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.mobilestore.servlets.ReviewPaymentServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>OrderServlet</servlet-name>
+  	<display-name>OrderServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.mobilestore.servlets.OrderServlet</servlet-class>
+  </servlet>
+  
+ 
+  <servlet-mapping>
+  	<servlet-name>RegisterUserServlet</servlet-name>
+  	<url-pattern>/RegisterUserServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>LoginServlet</servlet-name>
+  	<url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ProductOperationServlet</servlet-name>
+  	<url-pattern>/ProductOperationServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>CartServlet</servlet-name>
+  	<url-pattern>/CartServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Test</servlet-name>
+  	<url-pattern>/Test</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>AuthorizePaymentServlet</servlet-name>
+  	<url-pattern>/AuthorizePaymentServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ExecutePaymentServlet</servlet-name>
+  	<url-pattern>/ExecutePaymentServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ReviewPaymentServlet</servlet-name>
+  	<url-pattern>/ReviewPaymentServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>OrderServlet</servlet-name>
+  	<url-pattern>/OrderServlet</url-pattern>
+  </servlet-mapping>
+ 
+</web-app>

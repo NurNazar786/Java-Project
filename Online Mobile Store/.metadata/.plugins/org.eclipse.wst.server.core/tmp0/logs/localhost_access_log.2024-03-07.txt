@@ -1,0 +1,10 @@
+127.0.0.1 - - [07/Mar/2024:18:48:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Mar/2024:18:48:52 +0530] "GET /OnlineMobileShoppingSystem/ HTTP/1.1" 200 10140
+0:0:0:0:0:0:0:1 - - [07/Mar/2024:18:48:52 +0530] "GET /OnlineMobileShoppingSystem/css/style.css HTTP/1.1" 200 94
+0:0:0:0:0:0:0:1 - - [07/Mar/2024:18:48:52 +0530] "GET /OnlineMobileShoppingSystem/images/image2.jpg HTTP/1.1" 200 223659
+0:0:0:0:0:0:0:1 - - [07/Mar/2024:18:48:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Mar/2024:18:50:37 +0530] "GET /OnlineMobileShoppingSystem/admin.jsp HTTP/1.1" 200 12940
+0:0:0:0:0:0:0:1 - - [07/Mar/2024:18:50:37 +0530] "GET /OnlineMobileShoppingSystem/images/apple.png HTTP/1.1" 200 13943
+0:0:0:0:0:0:0:1 - - [07/Mar/2024:18:50:37 +0530] "GET /OnlineMobileShoppingSystem/images/apple2.jpg HTTP/1.1" 200 7592
+0:0:0:0:0:0:0:1 - - [07/Mar/2024:18:52:16 +0530] "GET /OnlineMobileShoppingSystem/admin.jsp HTTP/1.1" 200 12940
+0:0:0:0:0:0:0:1 - - [07/Mar/2024:18:53:14 +0530] "GET /OnlineMobileShoppingSystem/ HTTP/1.1" 200 10140
